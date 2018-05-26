@@ -102,3 +102,33 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#js_part
+*.swp
+.idea
+.DS_Store
+dump.rdb
+assets/build.js
+assets/main.js
+node_modules/
+bower_components/
+assets/*
+invoices/*
+client/tmp
+media
+venv
+env
+logs
+staticfiles/*
+sftp-config.json
+*.codekit
+.codekit-cache
+config.codekit
+*-ck.js
+.sass-cache
+.vscode/
+projectile/.env
+yarn.lock
+package-lock.json
+webpack-stats.json
+*.sqlite3
